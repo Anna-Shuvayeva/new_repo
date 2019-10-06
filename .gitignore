@@ -1,5 +1,19 @@
-*.log
+# Compiled class file
+*.class
+
+*.bak
+
 *.db
-/target
+
 /bin
+
+/target
+*.iml
+
+## Directory-based site format:
+.idea/
+
+## File-based site format:
+*.ipr
+*.iws
 
